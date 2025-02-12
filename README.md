@@ -1,4 +1,6 @@
 # Per Workload Instrumentation Component for MySQL (like) Databases
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fejortegau%2Fworkload-instrumentation-component-for-mysql.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fejortegau%2Fworkload-instrumentation-component-for-mysql?ref=badge_shield)
+
 
 ## Introduction
 This is a component for MySQL (TM Oracle) to expose basic per workload instrumentation metrics. It gets notifications
@@ -128,3 +130,7 @@ query comment, which we call the workload.
   `plugin_dir` MySQL server variable.
 * Run `INSTALL COMPONENT 'file://component_workload_instrumentation';`
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fejortegau%2Fworkload-instrumentation-component-for-mysql.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fejortegau%2Fworkload-instrumentation-component-for-mysql?ref=badge_large)
